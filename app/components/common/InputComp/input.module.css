@@ -1,0 +1,7 @@
+.hoveringInp{
+padding:10PX;
+border:1px solid lightgray;
+outline:none; }
+.hoveringInp:hover{
+  border: 1px solid gray;
+}
